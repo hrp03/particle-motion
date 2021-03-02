@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: rgb(0, 132, 155);
+}
+
+#name {
+    position: absolute;
+    font-size: 2rem;
+    top: 16px;
+    left: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+#name:link{
+    color: white;
+    
+}
